@@ -1,4 +1,2 @@
-hello i am main
-<changes by bug1>
-<changes by bug2>
-
+this is bug 2 account
+help
