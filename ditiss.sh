@@ -1,2 +1,2 @@
 hello i am main
-<changes by bug2>
+edited by bug2
